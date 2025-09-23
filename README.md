@@ -470,7 +470,7 @@ A pipe that connects Open WebUI to the **Flux Kontext** image-to-image editing m
 **Example 1 - Basic edit:**
 
 ```
-Prompt: "Edit this image to look like a medieval fantasy king, preserving facial features."
+Prompt: "Re draw me as an cyberpunk anime character, preserving the facial features, hair and eye color."
 ```
 ![Flux Kontext Example](img/flux_kontext_without_parameters.png)
 
